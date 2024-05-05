@@ -1,0 +1,6 @@
+@import 'primevue/resources/themes/lara-light-indigo/theme.css';
+
+:root {
+    font-family: "Inter", sans-serif;
+    --font-family: Inter, sans-serif;
+}
